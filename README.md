@@ -2,4 +2,4 @@
 
 This is my learning repository New.
 <br>
-Author - Pratik Patil
+Author - Pratik Patil [Owner]
